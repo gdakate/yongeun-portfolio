@@ -1,63 +1,82 @@
 {
   "metaData": {
-    "title": "Full Stack Developer",
-    "description": "I am fullstack dev that build fast website. based in ...",
-    "keywords": ["fullstack", "javascript", "devops", "london dev"]
+    "title": "Yongeun Cho | Computer Vision & Human-Centered AI",
+    "description": "M.S. student in Data Science at Stony Brook University working on computer vision, assistive AI, privacy-preserving ML, and medical image segmentation.",
+    "keywords": [
+      "Yongeun Cho",
+      "computer vision",
+      "human-centered AI",
+      "assistive technology",
+      "medical image segmentation",
+      "privacy-preserving machine learning",
+      "diffusion models",
+      "Stony Brook University"
+    ]
   },
-  "fullName": "Alex Johnson",
-  "rotatingWords": ["Mobile Application", "Web Development", "DevOps AWS"],
+  "fullName": "Yongeun Cho",
+  "rotatingWords": [
+    "Computer Vision",
+    "Human-Centered AI",
+    "Assistive Technology"
+  ],
   "aboutMe": [
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum",
-    "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro.",
-    " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas quod magni enim facilis porro, repellat soluta distinctio deserunt veritatis nam molestiae eius nostrum natus dolor? Voluptates in iusto aspernatur illum."
+    "I am an M.S. student in Data Science at Stony Brook University with a strong interest in computer vision and human-centered AI.",
+    "My work focuses on building machine learning systems that are useful in real-world settings, especially in assistive technology, privacy-preserving vision, and medical image analysis.",
+    "I enjoy developing practical AI solutions that improve accessibility, reliability, and everyday quality of life for users."
   ],
   "skills": [
+    "python",
+    "java",
+    "c++",
+    "sql",
     "javascript",
-    "jest",
-    "elixir",
-    "kali",
-    "go",
-    "rust",
-    "cs",
-    "hugo",
-    "postgresql",
-    "flutter",
-    "jenkins",
-    "python"
+    "pytorch",
+    "tensorflow",
+    "scikit-learn",
+    "opencv",
+    "mediapipe",
+    "yolov8",
+    "sam",
+    "flask",
+    "fastapi",
+    "spring boot",
+    "docker",
+    "aws",
+    "gcp",
+    "git"
   ],
   "projects": [
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/qd1p2yaogl41ymtozppc.jpg",
-      "title": "Connect Four game",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template"
+      "imageSrc": "/projects/medical-segmentation.png",
+      "title": "Medical Image Segmentation with Vision Foundation Models",
+      "codeSrc": "https://github.com/gdakate",
+      "liveDemoURL": "https://github.com/gdakate"
     },
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/zurpxclpp6gavavnw6d2.jpg",
-      "title": "Entertainment web app",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template"
+      "imageSrc": "/projects/fawn.png",
+      "title": "Face Anonymization with Diffusion Models",
+      "codeSrc": "https://github.com/ksta-google-simz/fawn",
+      "liveDemoURL": "https://private-user-images.githubusercontent.com/146207162/427847924-23fbfff6-1af7-486c-88eb-79ff52a133bb.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzMzNDE5MzIsIm5iZiI6MTc3MzM0MTYzMiwicGF0aCI6Ii8xNDYyMDcxNjIvNDI3ODQ3OTI0LTIzZmJmZmY2LTFhZjctNDg2Yy04OGViLTc5ZmY1MmExMzNiYi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxMlQxODUzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZDYxY2ZkZThkY2M5MTAzZjg5OTVkMThkZTI0OWQzZDliYWRkNmI1MGYzNzczYzQ1NjA4ZWE1MDkxZTQ1ZDJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UikA2_77_UomNiVhe8XklL__EuBIaqSKgC0vOpSlkNk"
     },
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/mubyltw6vmbmndvlymzn.jpg",
-      "title": "Meet landing page",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template"
+      "imageSrc": "/projects/assistive-shopping.png",
+      "title": "Real-time Vision System for Assistive Shopping",
+      "codeSrc": "https://github.com/smwu-ips-Sayosayo/sayosayo_ML",
+      "liveDemoURL": "https://github.com/gdakate"
     },
     {
-      "imageSrc": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/lowozx0v3khn1hyggkqy.jpg",
-      "title": "Devjobs web app",
-      "codeSrc": "https://github.com/zougari47/portfolio-template",
-      "liveDemoURL": "https://github.com/zougari47/portfolio-template"
+      "imageSrc": "https://user-images.githubusercontent.com/97296543/229533600-3d575125-b284-4909-bea6-91be128f5c8c.png",
+      "title": "Independent Learning Support App Designed for Low Vision College Students. ",
+      "codeSrc": "https://github.com/dsc-sookmyung/2023-High-Light-SolutionChallenge",
+      "liveDemoURL": "https://www.youtube.com/watch?v=6Fq0GgznjZw"
     }
   ],
   "contact": {
-    "email": "alex@johnson.dev",
-    "location": "UK, London",
+    "email": "gdakate1215@gmail.com",
+    "location": "Stony Brook, NY, USA",
     "social": {
-      "linkedin": "https://linkedin.com/in/yourUsername",
-      "github": "https://github.com/yourUsername",
-      "insta": "https://www.instagram.com/yourUsername"
+      "linkedin": "https://www.linkedin.com/in/yongeuncho/",
+      "github": "https://github.com/gdakate",
     }
   }
 }
